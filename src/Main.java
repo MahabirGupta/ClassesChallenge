@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Account Balance =$ " + account.getAccountBalance());
         account.toString();
 
-        System.out.println("Account Balance =$ " + account.getAccountBalance());
+//        System.out.println("Account Balance =$ " + account.getAccountBalance());
         account.withdrawFunds(900);
         System.out.println("Account Balance =$ " + account.getAccountBalance());
 
