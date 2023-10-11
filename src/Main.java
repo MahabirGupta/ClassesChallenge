@@ -15,5 +15,8 @@ public class Main {
         account.withdrawFunds(900);
         System.out.println("Account Balance =$ " + account.getAccountBalance());
 
+        account.withdrawFunds(700);
+        System.out.println("Account Balance =$ " + account.getAccountBalance());
+
     }
 }
